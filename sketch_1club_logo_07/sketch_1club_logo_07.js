@@ -1,7 +1,7 @@
 var R,D,t=0;
 
 function setup() {
-  createCanvas(800,800)
+  createCanvas(windowWidth,200)
   frameRate(24);
   colorMode(HSB)
 }
